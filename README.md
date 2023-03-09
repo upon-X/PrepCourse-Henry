@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Veras solamente pruebas del M2 del PrepCourse de SoyHenry
+Este proyecto es una prueba de clonacion de repositorio al escritorio
